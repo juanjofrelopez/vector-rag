@@ -4,9 +4,14 @@
 
 question:
 `how can i move my car?`
-[![a]()](https://raw.githubusercontent.com/juanjofrelopez/vector-rag/master/docs/1.mp4)
+
+https://github.com/user-attachments/assets/981a40b4-a8a9-457e-916b-173d42a39a2e
+
+
 
 question: `im a drive and i had an accident, what should i do?`
+
+
 
 ## How to launch
 
