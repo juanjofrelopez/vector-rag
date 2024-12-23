@@ -58,3 +58,6 @@ Llamafile is openai API compliant, so by using its python pkg we can interact wi
 ### [PGVector](https://github.com/pgvector/pgvector)
 
 This will be our main database with vector capabilities. Semantic search will be our battle horse.
+
+After inserting the embeddings this is what we get in the vector table:
+![](docs/vec.png)
